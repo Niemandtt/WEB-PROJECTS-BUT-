@@ -9,5 +9,5 @@ for (let i = 1; i <= 50; i++) {
   }
 }
 
-document.write("Количество чётных чисел: " + evenCount + "<br>");
-document.write("Количество нечётных чисел: " + oddCount);
+console.log("Количество чётных чисел: " + evenCount);
+console.log("Количество нечётных чисел: " + oddCount);
