@@ -17,7 +17,12 @@
 
 ## Угадай число (Формула math.floor)
 
-- [Задание 7](task7/)  
+- [Задание 7](task7/)
+
+## Верстка сайта с Figma (другая репозитория)
+
+[репозиторий FigmaTask](https://github.com/Niemandtt/FigmaTask)
+
 
 ---
 
